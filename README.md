@@ -1,3 +1,1 @@
-# Neural-Network-Maintenance-Interview
-
-This repository contains necessary artifacts to conduct interviews regarding practitioners perspective on maintaenance support for neural network.
+This repository contains the necessary artifacts to conduct interviews regarding practitioners' perspectives on maintenance support for neural networks.
